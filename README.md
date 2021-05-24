@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Exploring The Use Of Virtual Reality In The Classroom
+
+As year 13 Digital Technologies students we are conducting a critical inquiry to see the benefits and distractions of using Virtual Reality in an educational setting in primary schools. We want to find out  whether the students find it easier and more profitable than a textbook when they are developing and learning new concepts. To get the best results we have decided to narrow down our participants to 15 students each from three schools in our Kahui Ako; Lake Brunner, Greymain and Karoro primary school. 
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/JoelDumelow/GHS-VR-Project-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
